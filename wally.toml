@@ -1,0 +1,13 @@
+[package]
+name = "bradmessenger/luau-double-bits"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+exclude = ["**"]
+include = [
+	"src",
+	"src/*",
+	"default.project.json",
+	"wally.toml",
+	"LICENSE"
+]
+realm = "shared"
